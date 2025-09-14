@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #e0f7fa, #fff);
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #00796b;
+  color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 18px;
+}
